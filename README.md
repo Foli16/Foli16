@@ -1,14 +1,14 @@
 
 
 <h1 align="center">Fabio Foglieni<br/>---<br/>Junior Developer | Java, JavaScript, Spring Boot, Angular, SQL</h1>  
-<p align="center">
-  <a href="https://www.linkedin.com/in/fabio-foglieni-3a618428a">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
-  </a>
+<div align="center">
+  <button>
+    <a href="https://www.linkedin.com/in/fabio-foglieni-3a618428a"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25 ></a>
+  </button>
   <a href="https://github.com/Foli16">
     <img src="https://img.shields.io/badge/github-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" height=25">
   </a>
-</p>
+</div>
 <br/>
 
 Hi! I'm **Fabio**, an apprentice coder based in Bergamo, Italy. I'm on a journey to become a skilled developer!  
